@@ -1,4 +1,4 @@
-This is from Dariush
+Use Travis-ci.org for continues integration
 
 1 Bug
 
